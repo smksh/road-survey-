@@ -1,4 +1,4 @@
-Gemini said
+
 RoadSurvey App 🛣️
 Hey! This is my RoadSurvey project. Its an Android appliation built using Flutter for real-time pot hole detection and reporting.
 Basically, the app captures images of the road, gets your GPS cordinates, and sends the data to a backend server so they can process it and estimate the materials needed to fix it.
