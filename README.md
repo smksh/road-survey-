@@ -40,3 +40,4 @@ Clone this repo
 Run flutter pub get
 
 Plug in your phone and run flutter run (the gradle build might take a while the first time)
+thats it !!!!
